@@ -1,0 +1,2 @@
+# Generatqrcode
+Generating qr code
